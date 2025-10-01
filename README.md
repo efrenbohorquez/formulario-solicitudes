@@ -1,6 +1,13 @@
-# Sistema de Gestión de Flota - Personería
+# 🚗 Sistema de Gestión de Flota - Personería Municipal
 
-Sistema web completo para la gestión de vehículos, conductores y mantenimientos de la flota de transporte de la personería.
+[![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)](https://fastapi.tiangolo.com/)
+[![Python](https://img.shields.io/badge/python-3.8+-blue.svg?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
+[![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-2.0-red.svg?style=for-the-badge)](https://sqlalchemy.org)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
+
+## 🎯 Descripción
+
+**Sistema integral de gestión de flota vehicular** desarrollado específicamente para la Personería Municipal. Una solución completa que permite administrar vehículos, conductores, mantenimientos, solicitudes de transporte y generar reportes en tiempo real.
 
 ## Características Principales
 
